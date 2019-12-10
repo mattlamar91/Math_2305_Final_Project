@@ -8,3 +8,9 @@ as a graph with minimum set of edges that connect all vertices. A minimum
 spanning tree of a graph is a spanning tree of the graph with least weight (where
 the weight is computed by adding the weights of all the edges in the spanning tree).
 In general, a graph can have multiple minimum spanning trees. The task assigned is to find a minimum spanning tree of a graph.   
+
+Students:
+Vishakha Mallya
+Chelsea Cheung
+Moustafa Khedr
+Matthew Gonzalez
